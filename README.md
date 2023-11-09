@@ -18,4 +18,4 @@ Hash Cracker for other formarts = https://hashes.com/en/decrypt/hash
 
 **Steg**
 
-stego-toolkit https://github.com/DominicBreuker/stego-toolkit
+stego-toolkit = https://github.com/DominicBreuker/stego-toolkit
