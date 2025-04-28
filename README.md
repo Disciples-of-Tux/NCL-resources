@@ -1,21 +1,8 @@
 # NCL-resources
 Resources used for NCL
 
-**Awesome CTF repo(s)**
+This repository contains all of the files from the team and individual games of all organizational members, gathered from NCL seasons. It is a mess.
 
-[awesome-ctf](https://apsdehal.in/awesome-ctf/)
+## License
 
-**OSINT** 
-
-Barcode Reader = https://online-barcode-reader.inliteresearch.com
-
-
-**Password Cracking** 
-
-MD5 Hash cracker = https://md5hashing.net/hash/md5/
-
-Hash Cracker for other formarts = https://hashes.com/en/decrypt/hash
-
-**Steg**
-
-stego-toolkit = https://github.com/DominicBreuker/stego-toolkit
+Feel free to use the files as needed for academic or internal purposes. Please make sure to respect any applicable licensing or terms of service OR NCL Rules of Conduct associated with ANY/ALL files.
