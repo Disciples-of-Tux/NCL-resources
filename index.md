@@ -11,7 +11,7 @@ This repo includes contributions from all members of the organization – spanni
 ---
 
 ## 📂 Repo Structure
-
+```
 NCL-resources/
 │
 ├── 2ndlog.py
@@ -38,3 +38,4 @@ NCL-resources/
 ├── readme.md
 └── NCL/
 └── 2025 Spring/
+```
